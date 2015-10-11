@@ -1,0 +1,15 @@
+---
+dependencies: []
+
+galaxy_info:
+  author: ericmdev
+  description: libsexlinux-python for RHEL/CentOS.
+  company: ""
+  license: "license (MIT)"
+  min_ansible_version: 1.4
+  platforms:
+  - name: EL
+    versions:
+    - 6
+  categories:
+    - packaging
