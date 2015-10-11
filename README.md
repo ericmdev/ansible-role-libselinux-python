@@ -12,7 +12,3 @@ Installs libsexlinux-python.
 ## Dependencies
 
 None.
-
-## Ansible Galaxy
-
-ansible-galaxy install ericmdev.libsexlinux-python
