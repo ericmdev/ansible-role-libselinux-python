@@ -4,10 +4,6 @@
 
 Installs libsexlinux-python.
 
-Resolves play failure:
-
-	msg: Aborting, target uses selinux but python bindings (libselinux-python) aren't installed!
-
 ## Requirements
 
 - EL/Enterprise Linux (RHEL/CentOS)
