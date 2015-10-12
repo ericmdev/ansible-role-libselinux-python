@@ -3,4 +3,4 @@
   yum:
     name: libselinux-python
     state: present
-  when: (ansible_os_family == 'RedHat') and (ansible_lsb.major_release|int == 6)
+  when: (ansible_os_family == 'RedHat') and (ansible_distribution_version == '6.4')
