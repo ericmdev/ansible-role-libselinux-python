@@ -3,7 +3,7 @@ dependencies: []
 
 galaxy_info:
   author: ericmdev
-  description: libsexlinux-python for RHEL/CentOS.
+  description: libsexlinux-python for RHEL/CentOS 6.x.
   company: ""
   license: "license (MIT)"
   min_ansible_version: 1.4
